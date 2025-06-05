@@ -6,5 +6,10 @@ Pensando nisso criei esse simulador de investimentos para facilitar o dia a dia 
 É simples e intuitiva e mesmo quem não tem familiaridade com investimento será capaz de usa-lá.
 
 ° Abra o arquivo de excel que foi disponibilizado;
+
 ° Preencha os campos INVESTIMENTO INICIAL; TAXA DE RENTABILIDADE E APORTE MENSAL;
-° De forma automática será possível saber 
+
+° De forma automática será possível saber qual quanto seu clinte irá resgatar no vencimento do investimento.
+
+
+Boas vendas! 
